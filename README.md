@@ -8,5 +8,5 @@
 <h3>Zapisywanie szkicu wpisu</h3>
 <img src='Zapisz szkic.png'>
 <br>
-<h3>Cofanie i ponowienie dziełania podczas edycji wpisu</h3>
+<h3>Cofanie i ponowienie działania podczas edycji wpisu</h3>
 <img src='Cofnij - ponow.png'>
